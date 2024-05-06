@@ -1,0 +1,44 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Chart container styles */
+.chart-container {
+    width: 80%;
+    margin: 50px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+/* Chart canvas styles */
+#myChart {
+    width: 100%;
+    height: auto;
+}
+
+/* Title styles */
+.chart-title {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Tooltip styles */
+.chart-tooltip {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Sample data styles */
+.chart-data-item {
+    margin-bottom: 10px;
+}
